@@ -34,15 +34,14 @@ export default StyleSheet.create({
 
     selectStyle: {
         flex: 1,
-        borderColor: '#ccc',
-        borderWidth: 1,
-        padding: 8,
-        borderRadius: BORDER_RADIUS
+        // borderColor: '#ccc',
+        // borderWidth: 1,
+        padding: 16,
+        // borderRadius: BORDER_RADIUS
     },
 
     selectTextStyle: {
-        textAlign: 'center',
-        color: '#333',
+        color: 'rgba(0,0,0, .57)',
         fontSize: FONT_SIZE
     },
 
